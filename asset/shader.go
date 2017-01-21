@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	gl "github.com/go-gl/gl"
+	"github.com/go-gl/gl/v4.5-core/gl"
 )
 
 func newShader(file string, typ uint32) (uint32, error) {

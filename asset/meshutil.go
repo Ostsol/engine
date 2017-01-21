@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	gl "github.com/go-gl/gl"
+	"github.com/go-gl/gl/v4.5-core/gl"
 	mgl "github.com/go-gl/mathgl/mgl32"
 )
 

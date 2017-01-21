@@ -3,7 +3,7 @@ package asset
 import (
 	"fmt"
 
-	gl "github.com/go-gl/gl"
+	"github.com/go-gl/gl/v4.5-core/gl"
 )
 
 // Material is a collection of textures and shaders and their related data.

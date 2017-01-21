@@ -7,7 +7,7 @@ import (
 	_ "image/png" // for png textures
 	"os"
 
-	gl "github.com/go-gl/gl"
+	"github.com/go-gl/gl/v4.5-core/gl"
 )
 
 // ShaderSet is a tuple of shader handles
